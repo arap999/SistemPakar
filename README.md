@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # login_page
 
 A new Flutter project.
@@ -15,3 +16,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "add source code" 
+=======
+# SistemPakar
+aplikasi sistem pakar
+>>>>>>> 90d7e0b9062cd0083cfb86c8a23fe279fdf9120d
